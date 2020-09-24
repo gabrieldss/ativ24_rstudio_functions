@@ -1,1 +1,1 @@
-# ativ24_rstudio_functions
+# Activity 24 - class codes (09/23)
